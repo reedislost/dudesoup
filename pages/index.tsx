@@ -16,7 +16,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Center minH={"100vh"}>
-        <Box fontSize={"5xl"}>dude soup</Box>
+        <Box fontSize={"5xl"}>dude soup 🍜</Box>
       </Center>
     </>
   );
